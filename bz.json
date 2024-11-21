@@ -1,0 +1,109 @@
+{
+    "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": {
+        "counter": 4,
+        "1": {
+            "OZ": {
+                "List": [],
+                "kolvo": 0,
+                "cash": 0
+            },
+            "OU": {
+                "List": [],
+                "kolvo": 0,
+                "cash": 0
+            },
+            "PU": {
+                "List": [],
+                "kolvo": 0,
+                "cash": 0
+            },
+            "PZ": {
+                "List": [
+                    "Тест1"
+                ],
+                "kolvo": 1,
+                "cash": 10
+            },
+            "payed": true,
+            "checked": false
+        },
+        "2": {
+            "OZ": {
+                "List": [],
+                "kolvo": 0,
+                "cash": 0
+            },
+            "OU": {
+                "List": [],
+                "kolvo": 0,
+                "cash": 0
+            },
+            "PU": {
+                "List": [],
+                "kolvo": 0,
+                "cash": 0
+            },
+            "PZ": {
+                "List": [
+                    "Тест 2"
+                ],
+                "kolvo": 1,
+                "cash": 10
+            },
+            "payed": true,
+            "checked": false
+        },
+        "3": {
+            "OZ": {
+                "List": [],
+                "kolvo": 0,
+                "cash": 0
+            },
+            "OU": {
+                "List": [],
+                "kolvo": 0,
+                "cash": 0
+            },
+            "PU": {
+                "List": [
+                    "Тест 3"
+                ],
+                "kolvo": 1,
+                "cash": 10
+            },
+            "PZ": {
+                "List": [],
+                "kolvo": 0,
+                "cash": 0
+            },
+            "payed": true,
+            "checked": false
+        },
+        "4": {
+            "OZ": {
+                "List": [],
+                "kolvo": 0,
+                "cash": 0
+            },
+            "OU": {
+                "List": [],
+                "kolvo": 0,
+                "cash": 0
+            },
+            "PU": {
+                "List": [
+                    "Тест 4"
+                ],
+                "kolvo": 1,
+                "cash": 10
+            },
+            "PZ": {
+                "List": [],
+                "kolvo": 0,
+                "cash": 0
+            },
+            "payed": false,
+            "checked": false
+        }
+    }
+}
